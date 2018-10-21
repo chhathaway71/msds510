@@ -1,6 +1,8 @@
 import sys
 import csv
 
+#edited directly in Github remote directory.
+#can this be downloaded directly to pycharm?
 
 def python_friendly_name(name):
     return name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
