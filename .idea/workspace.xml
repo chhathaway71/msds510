@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d95505f-dd9b-4a49-bbad-63e3419b1b69" name="Default Changelist" comment="Update for gitignore file">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1d95505f-dd9b-4a49-bbad-63e3419b1b69" name="Default Changelist" comment="Update for gitignore file" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +48,15 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-70610127">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf />
@@ -92,56 +99,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="msds510" type="b2602c69:ProjectViewProjectNode" />
-              <item name="msds510" type="462c0819:PsiDirectoryNode" />
+              <item name="msds510 - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="msds510 - Copy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="msds510" type="b2602c69:ProjectViewProjectNode" />
-              <item name="msds510" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="msds510" type="b2602c69:ProjectViewProjectNode" />
-              <item name="msds510" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="interim" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="msds510" type="b2602c69:ProjectViewProjectNode" />
-              <item name="msds510" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="processed" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="msds510" type="b2602c69:ProjectViewProjectNode" />
-              <item name="msds510" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="raw" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="msds510" type="b2602c69:ProjectViewProjectNode" />
-              <item name="msds510" type="462c0819:PsiDirectoryNode" />
+              <item name="msds510 - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="msds510 - Copy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="msds510" type="b2602c69:ProjectViewProjectNode" />
-              <item name="msds510" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="msds510" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="msds510" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
