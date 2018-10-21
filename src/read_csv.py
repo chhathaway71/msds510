@@ -2,6 +2,9 @@ import sys
 import csv
 from pprint import pprint
 
+#module uses csv reader to input Avengers file
+#uses dictionary reader and converts fieldnames
+#to Python friendly names
 
 def read_csv(csv_path):
     with open(csv_path) as f:
