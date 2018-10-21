@@ -1,6 +1,7 @@
 import sys
 import csv
 
+#adding this line in pycharm
 
 def python_friendly_name(name):
     return name.lower().replace(' ', '_').replace('/', '_').replace('?', '')
