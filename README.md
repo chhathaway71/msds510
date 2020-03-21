@@ -1,4 +1,4 @@
-# msds510
+# Project from DSC 510
 DSC510 Intro to Programming
 
 This project begins with a raw data set. 
