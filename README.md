@@ -1,4 +1,4 @@
-# Project from DSC 510
+# DSC 510 Cleaning the Avengers Dataset
 DSC510 Intro to Programming
 
 This project begins with a raw data set. 
