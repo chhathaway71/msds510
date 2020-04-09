@@ -17,7 +17,7 @@ The code is locaed in the src folders and can be run in Pycharm
 The objective of the projects is to start with the raw data and go through a series of cleaning steps
 The goal of the final project was to create a Markdown report using the cleaned data
 
-## Techonogies:
+## Technologies:
 Python
 Creating user defined functions
 Markdownn reporting
