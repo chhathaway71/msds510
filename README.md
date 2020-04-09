@@ -2,7 +2,9 @@
 
 ## Description
 There are two projects contained in this repository.
+
 The Midterm Project is Cleaning the Avengers Dataset.
+
 Final Project is Cleaning the Weather file.
 The projects begin with raw data.
 Using python code, the data is cleaned through a series of specific requirements.
